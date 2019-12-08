@@ -1,6 +1,10 @@
 # GameShow Application OOP
 This is a gameshow application built with javascript using object oriented programming.
+
+
 Understand the rules of the game:
+
+
 The player’s goal is to guess all the letters in a hidden, random phrase. At the beginning, the player only sees the number of letters and words in the phrase, represented by blank boxes on the screen.
 The player clicks an onscreen keyboard to guess letters in the phrase.
 The letter is disabled on the onscreen keyboard and a player can't select that letter again.
