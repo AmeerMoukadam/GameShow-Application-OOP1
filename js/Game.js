@@ -5,7 +5,7 @@ class Game {
     constructor() {
       this.missed = 0;
       this.phrases = [
-        new Phrase("Bandersnatch, a film on netflix"),
+        new Phrase("Bandersnatch is a film on netflix"),
         new Phrase("You can do it if you try"),
         new Phrase("This game is fun"),
         new Phrase("How many burgers are there"),
