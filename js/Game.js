@@ -5,10 +5,10 @@ class Game {
     constructor() {
       this.missed = 0;
       this.phrases = [
-        new Phrase("Bandersnatch is a film on netflix"),
+        new Phrase("Netflix or Hulu"),
         new Phrase("You can do it if you try"),
-        new Phrase("This game is fun"),
-        new Phrase("How many burgers are there"),
+        new Phrase("This game is challenging"),
+        new Phrase("How many burgers can you eat"),
         new Phrase("Program for life")
       ];
       this.activePhrase = null;
