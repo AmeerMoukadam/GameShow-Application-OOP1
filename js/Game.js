@@ -9,7 +9,9 @@ class Game {
         new Phrase("You can do it if you try"),
         new Phrase("This game is challenging"),
         new Phrase("How many burgers can you eat"),
-        new Phrase("Program for life")
+        new Phrase("Program for life"),
+        new Phrase("Wheel of Fortune"),
+        new Phrase("Web Development is Awesome")
       ];
       this.activePhrase = null;
     }
