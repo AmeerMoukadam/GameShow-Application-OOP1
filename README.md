@@ -1,5 +1,5 @@
 # GameShow Application OOP
-This is a gameshow application built with javascript using object oriented programming.
+This is a gameshow application built with vanilla JavaScript. The programming paradigm used to create this program is object oriented programming. 
 
 
 Understand the rules of the game:
